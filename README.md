@@ -1,4 +1,4 @@
-# gitlab-changelog-generate
+# gitlab-changelog-generator
 
 ## Usage
  ``` 
